@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Mar 31, 2019 at 07:09 AM
+-- Generation Time: Apr 03, 2019 at 12:42 PM
 -- Server version: 10.1.38-MariaDB
 -- PHP Version: 5.6.40
 
@@ -15026,12 +15026,37 @@ INSERT INTO `shipment` (`serial`, `HAWB`, `origin`, `destination`, `media`, `AWB
 (16923, '101167', 'BANGLADESH', 'GERMANY', '1', '4064704873', '2019-03-07 15:58', 'MD.SHIPON AHAMED ', 'FACHHOCHSCHUL KIEL ', 1, 'Shipment Pick Up', '+8801794603460', 'zamanwebdeveloper@gmail.com', 'KATASUR,(12/1,CHA) MOHAMMADPUR DHAKA-1207, BANGLADESH ', '+494312104830', '', 'STUDIENKOLLEG FACHHOCHSCHUL KIEL,SOKRATESPLATZ 4, 24149 KIEL, GERMANY \r\n', '2019-03-12', '101167', '', 'Bangladesh', '01pcs', '0.600gm', 'Product Description Here'),
 (16924, '101168 ', 'BANGLADESH', 'GERMANY', '1', '4064704851', '2019-03-12 16:07', 'MD.SHIPON AHAMED', 'RUHR UNIVERSITY BOCH', 1, 'Shipment Pick Up', '+8801794603460', '', 'KATASUR,(12/1,CHA) MOHAMMADPUR DHAKA-1207, BANGLADESH ', '01740301579', 'zamanwebdeveloper@gmail.com', 'GIRONDELLE 80, D-44799 BOCHUM, GERMANY ', '2019-02-12', '101168', 'Syed Zaman', 'Bangladesh', '01pcs', '0.500gm', 'Product Description Here'),
 (16925, '100000', 'BANGLADESH', 'GERMANY', '1', '4064704873', '2019-03-23 13:59', 'MD.SHIPON AHAMED ', 'FACHHOCHSCHUL KIEL ', 1, 'SHIPMENT PICK UP ', '+8801794603460', 'zamanwebdeveloper@gmail.com', '', '+494312104830', 'zamanwebdeveloper@gmail.com', '', '2019-03-23', '101167', 'Karim', 'DHAKA, BANGLADESH', '01pcs', '0.600gm', 'Pro Description'),
+(16934, '2127853', 'DHAKA', 'KSA', '12', '201159457', '2019-03-24 18:39', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-02', '', '', '', '', '', ''),
+(16935, '2127860', 'DHAKA', 'KSA', '12', '201159457', '2019-03-24 19:38:00', '', '', 0, 'process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
 (16927, '774433889', 'Dhaka - BANGLADESH', 'Hong Kong', '15', '080059142214', '2019-03-23 20:06', 'MD.SHIPON AHAMED ', 'RUHR UNIVERSITY BOCH', 1, 'Shipment Pick Up', '+8801794603460', 'shipon@gmail.com', '', '+494312104830', 'ruhur@gmail.com', '', '2019-03-23', '112233', 'Rahim', 'Bangladesh', '01pcs', '0.500gm', ''),
+(16936, '2127856', 'DHAKA', 'UAE', '12', '201159455', '2019-03-24 19:38:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
 (16929, '2054656', 'Dhaka - BANGLADESH', 'Hong Kong', '8', '212000014841', '2019-03-23 20:05', 'MD.SHIPON AHAMED ', 'RUHR UNIVERSITY BOCH', 1, 'Shipment Pick Up', '+8801794603460', 'shipon@gmail.com', '', '+494312104830', 'ruhur@gmail.com', '', '2019-03-23', '300000', 'Karim', 'DHAKA, BANGLADESH', '01pcs', '0.200gm', 'Important Files'),
 (16930, '774433889', 'Dhaka - BANGLADESH', 'Hong Kong', '15', '080059142214', '2019-03-23 20:06', 'MD.SHIPON AHAMED ', 'RUHR UNIVERSITY BOCH', 1, 'Shipment Pick Up', '+8801794603460', 'shipon@gmail.com', '', '+494312104830', 'ruhur@gmail.com', '', '2019-03-23', '112233', 'Rahim', 'Bangladesh', '01pcs', '0.500gm', ''),
 (16931, '2234112', 'Dhaka - BANGLADESH', 'GERMANY', '3', '813039694377', '2019-03-23 20:07', 'MD.SHIPON AHAMED ', 'RUHR UNIVERSITY BOCH', 1, 'Shipment Pick Up', '+8801794603460', 'shipon@gmail.com', '', '+8108058289550', 'ruhur@gmail.com', '', '2019-03-23', '101167', 'Karim', 'Bangladesh', '01pcs', '0.500gm', 'Product Description'),
 (16932, '2054708  ', 'Dhaka - BANGLADESH', 'Hong Kong', '10', '2054708', '2019-03-23 20:08', 'MD. ABDUL MOBIN ', 'RUHR UNIVERSITY BOCH', 1, 'SHIPMENT PICK UP ', 'ABDUL@gmail.com', 'shipon@gmail.com', '', '+494312104830', 'ruhur@gmail.com', '', '2019-03-23', '101167', 'Karim', 'Bangladesh', '01pcs', '0.600gm', ''),
-(16933, '2054369', 'Dhaka - BANGLADESH', 'GERMANY', '13', '3541228270', '2019-03-23 20:10', 'MD.SHIPON AHAMED', 'RUHR UNIVERSITY BOCH', 1, 'Shipment Pick Up', '+8801794603460', 'shipon@gmail.com', 'Dhaka', '+494312104830', 'ruhur@gmail.com', 'Hong Kong', '2019-03-23', '112233', 'Rahim', 'Bangladesh', '01pcs', '0.600gm', 'Product Description is Here');
+(16933, '2054369', 'Dhaka - BANGLADESH', 'GERMANY', '13', '3541228270', '2019-03-23 20:10', 'MD.SHIPON AHAMED', 'RUHR UNIVERSITY BOCH', 1, 'Shipment Pick Up', '+8801794603460', 'shipon@gmail.com', 'Dhaka', '+494312104830', 'ruhur@gmail.com', 'Hong Kong', '2019-03-23', '112233', 'Rahim', 'Bangladesh', '01pcs', '0.600gm', 'Product Description is Here'),
+(16937, '2014139', 'DHAKA', 'SPAIN', '2', '941562606', '13-9-2010 12:13:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16938, '2012904', 'DHAKA', 'RUSSIA', '2', '283900036', '2007-09-22 19:32:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16939, '41403566', 'DHAKA', 'CANADA', '3', '462334975167', '2007-10-27 20:27:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16940, '786031659', 'DHAKA', 'FRANCE', '3', '462334975307', '2007-10-27 20:56:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16941, '6779399', 'DHAKA', 'OMAN', '3', '462335026013', '2007-01-11 20:00:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16942, '2015886', 'DHAKA', 'UAE', '9', '800766962', '2007-05-04 19:38', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16943, '7744330321', 'DHAKA', 'KUWAIT', '1', '4808918763', '2007-01-02 15:30:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16944, '7744330322', 'DHAKA', 'UK', '1', '5496081231', '2007-01-02 15:30:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16945, '41403759', 'DHAKA', 'CHILE', '3', '462335055925', '2007-01-01 20:30:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16946, '716022', 'DHAKA', 'UAE', '9', '800766849', '2007-01-01 21:27:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16947, '2016250', 'DHAKA', 'ITALY', '3', '462335055822', '2007-01-01 20:30:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16948, '2015730', 'DHAKA', 'CANADA', '3', '462335055958', '2007-01-01 20:31:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16949, '2016248', 'DHAKA', 'USA', '3', '462335055899', '2007-01-01 20:31:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16950, '2111061', 'DHAKA', 'SPAIN', '3', '462335055888', '2007-01-01 20:35:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16951, '2111864', 'DHAKA', 'SPAIN', '3', '462335056005', '2007-01-01 20:42:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16952, '2015111', 'Dhaka - BANGLADESH', 'PHILIPPINES', '8', '212002926660', '2007-01-01 20:44:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16953, '2016212', 'DHAKA', 'MALAYSIA', '8', '212002926715', '2007-01-01 20:50:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16954, '41403838', 'DHAKA', 'CHILE', '2', '744974693', '2007-01-01 20:58:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16955, '2015150', 'DHAKA', 'USA', '3', '462335055947', '2007-01-01 20:59:00', '', '', 0, '', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16956, '2011255', 'DHAKA', 'ITALY', '3', '462335055866', '2007-01-01 20:49:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16957, '2016253', 'DHAKA', 'UK', '3', '462335056760', '2007-01-02 20:13:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', ''),
+(16958, '2014954', 'DHAKA', 'SPAIN', '3', '462335056715', '2007-01-02 20:23:00', '', '', 0, 'on process', '', '', '', '', '', '', '2019-04-03', '', '', '', '', '', '');
 
 -- --------------------------------------------------------
 
@@ -15644,7 +15669,8 @@ INSERT INTO `tracking` (`serial`, `sid`, `activity`, `location`, `pdate`, `end_s
 (857, '16933', 'Pending', 'Bangladesh', '2019-03-24 12:12', ''),
 (858, '16932', 'Pending', 'Bangladesh', '2019-03-24 16:30', ''),
 (859, '16929', 'Pending', 'Bangladesh', '2019-03-24 16:50', ''),
-(860, '16931', 'Pending', 'Bangladesh', '2019-03-24 20:15', '');
+(860, '16931', 'Pending', 'Bangladesh', '2019-03-24 20:15', ''),
+(861, '16934', 'DELIVERED', 'SAUDI ARABIA', '2019-04-03 13:37', '');
 
 -- --------------------------------------------------------
 
@@ -15784,7 +15810,7 @@ ALTER TABLE `product`
 -- AUTO_INCREMENT for table `shipment`
 --
 ALTER TABLE `shipment`
-  MODIFY `serial` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=16934;
+  MODIFY `serial` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=16959;
 
 --
 -- AUTO_INCREMENT for table `shipment_dom`
@@ -15796,7 +15822,7 @@ ALTER TABLE `shipment_dom`
 -- AUTO_INCREMENT for table `tracking`
 --
 ALTER TABLE `tracking`
-  MODIFY `serial` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=861;
+  MODIFY `serial` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=862;
 
 --
 -- AUTO_INCREMENT for table `tracking_dom`

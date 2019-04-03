@@ -473,6 +473,10 @@ $panme=mysql_fetch_array($res);
 		{
 			$goto="http://www.parcelforce.com/track-trace?trackNumber=".$awb;
 		}
+		else if($currmedia==12)
+		{
+			$goto="http://www.firstflightme.com/Track-Shipment?awb=".$awb;
+		}
 		else if($currmedia==13)
 		{
 			$goto="https://my.gdexpress.com/";
